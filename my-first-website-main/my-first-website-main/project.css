@@ -1,0 +1,115 @@
+
+.main-bg{
+    background-color: black;
+}
+.flex-container{
+    display: flex;
+    
+}
+
+.webpage {
+
+    
+    width: 100%;
+    background-color: rgba(83, 3, 3, 0.87);
+    text-align: center;
+    float: left;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+}
+.nav{
+    height: 100%;
+    background-color: rgba(83, 3, 3, 0.87);
+    color: black;
+}
+    
+
+
+.about {
+    text-align: center;
+    height: 35px;
+    background-color: rgba(83, 3, 3, 0.87);
+    border-radius: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.middle {
+
+    text-align: center;
+}
+
+.para {
+    width: 80%;
+    font-style: italic;
+    float: left;
+    color: aliceblue;
+
+}
+
+img {
+
+    height: 100px;
+    width: 15%;
+    text-align: right;
+    float: right;
+
+}
+
+.section-skills {
+    display: flex;
+
+}
+
+.skills {
+    text-align: center;
+    height: 35px;
+    background-color: rgba(83, 3, 3, 0.87);
+    border-radius: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.left-skills {
+    height: 150px;
+    width: 50%;
+    background-color: rgba(83, 3, 3, 0.87);
+    border-radius: 50px;
+    text-align: center;
+
+}
+
+
+
+.right-skills {
+    height: 150px;
+    width: 50%;
+    background-color: rgba(83, 3, 3, 0.87);
+    border-radius: 50px;
+    text-align: center;
+   
+
+}
+
+.hobby {
+    text-align: center;
+    
+    background-color: rgba(83, 3, 3, 0.87);
+    border-radius: 50px;
+    color: black;
+}
+
+.foot {
+    text-align: center;
+    font-weight: 900;
+    width: 100%;
+    background-color: rgba(83, 3, 3, 0.87);
+
+}
+
+.socials {
+    text-align: center;
+}
+.para2{
+    color: rgba(255, 255, 255, 0.801);
+    font-style: italic;
+    font-size: large;
+}
